@@ -15,6 +15,12 @@ The folder includes:
 - **Circuit Schematics**: Digital and analog circuit diagrams for Arduino integration
 - **Testing Footage**: Development and testing process videos
 
+### Physical Model
+
+![3D-Printed Airplane Model with Arduino Integration](IMG_5875%202.JPG)
+
+*3D-printed airplane model with integrated Arduino components (LEDs, buttons, and accelerometer) for motion-based game controls*
+
 ## 🎮 Game Overview
 
 Tokyo Flight is an interactive side-scrolling game where players control an airplane through a dynamic sky environment. The game combines classic arcade gameplay with modern web technologies and hardware integration.
